@@ -1,0 +1,11 @@
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\bin\Debug\netcoreapp2.1\TestCashdroJsonCore.deps.json
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\bin\Debug\netcoreapp2.1\TestCashdroJsonCore.runtimeconfig.json
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\bin\Debug\netcoreapp2.1\TestCashdroJsonCore.runtimeconfig.dev.json
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\bin\Debug\netcoreapp2.1\TestCashdroJsonCore.dll
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\obj\Debug\netcoreapp2.1\TestCashdroJsonCore.csprojAssemblyReference.cache
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\obj\Debug\netcoreapp2.1\TestCashdroJsonCore.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\obj\Debug\netcoreapp2.1\TestCashdroJsonCore.AssemblyInfoInputs.cache
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\obj\Debug\netcoreapp2.1\TestCashdroJsonCore.AssemblyInfo.cs
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\bin\Debug\netcoreapp2.1\TestCashdroJsonCore.pdb
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\obj\Debug\netcoreapp2.1\TestCashdroJsonCore.dll
+C:\Aplicaciones\DotNet\Examples\TestCashdroJsonCore\TestCashdroJsonCore\TestCashdroJsonCore\obj\Debug\netcoreapp2.1\TestCashdroJsonCore.pdb
